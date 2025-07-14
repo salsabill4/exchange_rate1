@@ -4,5 +4,4 @@ matplotlib
 scikit-learn
 streamlit
 tensorflow
-pystan==2.19.1.1
-prophet==1.1.4
+prophet[cmdstanpy]==1.1.4
