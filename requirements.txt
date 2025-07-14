@@ -4,5 +4,4 @@ matplotlib
 scikit-learn
 streamlit
 tensorflow
-pystan
 prophet
