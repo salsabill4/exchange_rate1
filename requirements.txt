@@ -5,4 +5,4 @@ scikit-learn
 streamlit
 tensorflow
 pystan==2.19.1.1
-prophet[cmdstanpy]
+prophet==1.1.4
